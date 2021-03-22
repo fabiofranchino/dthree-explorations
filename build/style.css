@@ -12,3 +12,10 @@ body{
     padding: 0;
     overflow: hidden;
 }
+
+.note{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top:0;
+}
