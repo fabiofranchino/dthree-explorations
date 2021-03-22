@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "camera-controls": "./camera-controls.js",
+    "d3": "./d3.js",
+    "gsap": "./gsap.js",
+    "gsap/gsap-core": "./gsap/gsap-core.js",
+    "stats.js": "./statsjs.js",
+    "three": "./three.js",
+    "topojson": "./topojson.js"
+  }
+}
